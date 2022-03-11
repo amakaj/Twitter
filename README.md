@@ -45,4 +45,4 @@ The following **bonus** features are implemented:
 - [ ] User can view their profile in a profile tab. (3pts)
 - [ ] User sees embedded images in tweet if available. (3pts)
 
-![](https://user-images.githubusercontent.com/30938391/157802856-8bbb32e4-3b07-4dec-844f-45306f07d210.gif)
+![](https://user-images.githubusercontent.com/30938391/157910211-061b6408-74cd-479b-b801-6d2c1e3be5f0.gif)
